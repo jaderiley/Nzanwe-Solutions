@@ -209,6 +209,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us about your aircon.",
     contactLead:  "Send through the details and we will get back to you with a quote.",
-    contactPlaceholder: "e.g. new installation, unit not cooling, servicing — the more detail the better"
+    contactPlaceholder: "e.g. new installation, unit not cooling, servicing — the more detail the better",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Aircon down <em>in this heat?</em>",
+    ctaBannerSub:   "One call and a technician is on the way with the common parts on board."
   }
 };
